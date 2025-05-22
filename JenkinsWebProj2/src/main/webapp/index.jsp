@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>HTML to Servlet Communication in maven</title>
+    <title>HTML to Servlet Communication in Spring MVC</title>
 </head>
 <body>
     <h1 style="color:red;text-align:center">HTML to Servlet Communication</h1>
