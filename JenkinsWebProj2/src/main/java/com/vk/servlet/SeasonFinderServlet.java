@@ -37,7 +37,7 @@ public class SeasonFinderServlet extends HttpServlet {
         // Display output
         pw.println("<!DOCTYPE html>");
         pw.println("<html><head><title>Season Result</title></head><body>");
-        pw.println("<h1 style='color:cyan;text-align:center'>" + seasonName + "</h1>");
+        pw.println("<h1 style='color:maroon;text-align:center'>" + seasonName + "</h1>");
         pw.println("<div style='text-align:center;'>");
         pw.println("<a href='index.jsp'>Home <img src='images/home.jpg' width='50' height='50'></a>");
         pw.println("</div>");
